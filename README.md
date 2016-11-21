@@ -1,0 +1,3 @@
+# algorithms
+short algorithm exercises
+
